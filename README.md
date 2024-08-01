@@ -1,5 +1,11 @@
-## Next.js App Router Course - Starter
+# Beer Tap Dispenser
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Launch front-end project
+- pnpm i
+- pnpm dev
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Execute tests
+
+- pnpm test
+
+_To avoid CORS issues with the back-end API, you need to disable cross-origin restrictions on the web browser_
